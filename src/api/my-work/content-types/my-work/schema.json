@@ -1,0 +1,22 @@
+{
+  "kind": "singleType",
+  "collectionName": "my_works",
+  "info": {
+    "singularName": "my-work",
+    "pluralName": "my-works",
+    "displayName": "MyWork",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "headline": {
+      "type": "string"
+    },
+    "text": {
+      "type": "text"
+    }
+  }
+}

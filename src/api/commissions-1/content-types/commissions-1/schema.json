@@ -1,0 +1,21 @@
+{
+  "kind": "singleType",
+  "collectionName": "commissions_1s",
+  "info": {
+    "singularName": "commissions-1",
+    "pluralName": "commissions-1s",
+    "displayName": "Commissions_1"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "headline": {
+      "type": "string"
+    },
+    "text": {
+      "type": "text"
+    }
+  }
+}

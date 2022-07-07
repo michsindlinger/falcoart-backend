@@ -1,0 +1,21 @@
+{
+  "kind": "singleType",
+  "collectionName": "shirts_and_mores",
+  "info": {
+    "singularName": "shirts-and-more",
+    "pluralName": "shirts-and-mores",
+    "displayName": "ShirtsAndMore"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "headline": {
+      "type": "string"
+    },
+    "text": {
+      "type": "text"
+    }
+  }
+}

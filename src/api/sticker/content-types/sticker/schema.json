@@ -1,0 +1,21 @@
+{
+  "kind": "singleType",
+  "collectionName": "stickers",
+  "info": {
+    "singularName": "sticker",
+    "pluralName": "stickers",
+    "displayName": "Stickers"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "headline": {
+      "type": "string"
+    },
+    "text": {
+      "type": "text"
+    }
+  }
+}

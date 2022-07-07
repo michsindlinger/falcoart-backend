@@ -32,15 +32,14 @@
         "audios"
       ]
     },
-    "index": {
-      "type": "integer"
-    },
     "type": {
       "type": "enumeration",
       "enum": [
         "MY_WORK",
         "COMMISSIONS_1",
-        "COMMISSIONS_2"
+        "COMMISSIONS_2",
+        "SHIRT",
+        "STICKER"
       ]
     }
   }
